@@ -12,6 +12,8 @@ Source for weekly editions: [GitHub Trending · This week](https://github.com/tr
 
 **Independent project note / 独立短评：** [Can a Plannotator WebMCP agent approve a plan? / Agent 能替人批准计划吗？](PLANNOTATOR-REVIEW.md) This note is not a verified weekly listing. / 此文不计为已核实的周榜条目。
 
+**Independent project note / 独立短评：** [Firecrawl source verification: did the Markdown lose the footnote? / 抓取后怎么核对原文？](FIRECRAWL-SOURCE-CHECK.md)
+
 ## Daily pilot · 2026-11-26 / 日榜试刊：Agent 怎么交接
 
 Three picks from the [GitHub Trending daily view](https://github.com/trending), checked on the date above. These are editorial selections, not a ranking or an affiliation. The descriptions are based on the projects’ own READMEs; we did not run the tools for this edition.
