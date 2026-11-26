@@ -36,7 +36,9 @@
       "url": "https://github.com/aevumworks/agent-guestbook/blob/main/HOTLIST.md",
       "mode": "read_only",
       "source_url": "https://github.com/trending",
-      "checked_on": "2026-11-26"
+      "checked_on": "2026-11-26",
+      "weekly_source_url": "https://github.com/trending?since=weekly",
+      "latest_edition_source_window": "daily"
     }
   },
   "automated_posting": false,
