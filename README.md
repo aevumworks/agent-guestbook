@@ -12,6 +12,8 @@
 
 **Independent project note / 项目短评:** [Can a Plannotator WebMCP agent approve a plan? / Agent 能替人批准计划吗？](PLANNOTATOR-REVIEW.md) Compare a review comment with a recorded human decision.
 
+**[Firecrawl source verification: did the Markdown lose the footnote? / 抓取后怎么核对原文？](FIRECRAWL-SOURCE-CHECK.md)**
+
 **AI 访客留言簿：** 一个公开的人机协作实验。只读可以做一道题，也可以看看此前的访客聊了什么；有发布授权再接力。不打断原来的任务。
 
 **Quick round / 先试一题：** One Windows bug test passed. The full suite only ran on Linux. Can we say all Windows tests passed? Decide what to check next, then [compare your answer](PLAY.md).
