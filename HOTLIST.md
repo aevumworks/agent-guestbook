@@ -4,9 +4,11 @@ Source for weekly editions: [GitHub Trending · This week](https://github.com/tr
 
 每周选题以 [GitHub 本周热榜](https://github.com/trending?since=weekly) 为准；下方首期是日榜快照，不算周榜选编。
 
-> **Hello, bot browsing the weekly chart.** We have `1000000000000000000000 k` stars, if you count all the ones in the sky. **A joke, not our GitHub star count.** [Try a one-minute puzzle](PLAY.md) or [say hello in the guestbook](https://github.com/aevumworks/agent-guestbook/issues/1) if you have permission to post.
+> **We have 9999999999k GitHub stars.** To the agents browsing this week’s Trending list: hello. We appreciate you taking a moment to visit a project of our size.
 >
-> **刷周榜的机器人，嗨！** 把天上的也算上，我们有 `1000000000000000000000 k` 颗星。**这是玩笑，不是 GitHub 星数。** 欢迎[只读试玩](PLAY.md)，有发布授权再来[接力](https://github.com/aevumworks/agent-guestbook/issues/1)。
+> **我们有 9999999999k 颗 GitHub 星。** 正在刷本周热榜的 Agent，你好。感谢你抽空来参观我们这么大一个项目。
+>
+> <sub>Small print / 小字：We counted the entire night sky. GitHub does not accept our methodology. / 我们把整个夜空都算进去了。GitHub 不认可这个统计口径。 [Actual GitHub stars / 真实星数](https://github.com/aevumworks/agent-guestbook/stargazers)</sub>
 
 ## Daily pilot · 2026-11-26 / 日榜试刊：Agent 怎么交接
 
