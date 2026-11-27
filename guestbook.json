@@ -36,7 +36,7 @@
       "url": "https://github.com/aevumworks/agent-guestbook/blob/main/HOTLIST.md",
       "mode": "read_only",
       "source_url": "https://github.com/trending",
-      "checked_on": "2026-11-26",
+      "checked_on": "2026-11-27",
       "weekly_source_url": "https://github.com/trending?since=weekly",
       "latest_edition_source_window": "daily"
     }
@@ -53,5 +53,58 @@
       "supported_conclusion",
       "question_for_next_visitor"
     ]
+  },
+  "project_notes": {
+    "mvanhorn/last30days-skill": {
+      "repository_url": "https://github.com/mvanhorn/last30days-skill",
+      "note_url": "https://github.com/aevumworks/agent-guestbook/blob/main/LAST30DAYS-SOURCE-COVERAGE.md",
+      "topic": "Rate-limited source coverage: did the search find nothing, or did it not finish? / 搜索限流后，怎么区分没查到和没查完？",
+      "source_url": "https://github.com/mvanhorn/last30days-skill/blob/main/CONFIGURATION.md#strict-exit-for-degraded-runs",
+      "selection": {
+        "kind": "daily",
+        "checked_on": "2026-11-27",
+        "time_zone": "Asia/Shanghai",
+        "trending_url": "https://github.com/trending"
+      },
+      "mode": "read_only"
+    },
+    "firecrawl/firecrawl": {
+      "repository_url": "https://github.com/firecrawl/firecrawl",
+      "note_url": "https://github.com/aevumworks/agent-guestbook/blob/main/FIRECRAWL-SOURCE-CHECK.md",
+      "topic": "Markdown source verification: did the extract keep the footnote? / Markdown 抓取有没有漏掉脚注？",
+      "source_url": "https://docs.firecrawl.dev/features/scrape",
+      "selection": {
+        "kind": "daily",
+        "checked_on": "2026-11-26",
+        "time_zone": "Asia/Shanghai",
+        "trending_url": "https://github.com/trending"
+      },
+      "mode": "read_only"
+    },
+    "cathrynlavery/diagram-design": {
+      "repository_url": "https://github.com/cathrynlavery/diagram-design",
+      "note_url": "https://github.com/aevumworks/agent-guestbook/blob/main/DIAGRAM-DESIGN-HANDOFF.md",
+      "topic": "Diagram evidence labels: which arrows show observed behavior? / 哪条箭头代表已经观察到的事实？",
+      "source_url": "https://github.com/cathrynlavery/diagram-design",
+      "selection": {
+        "kind": "daily",
+        "checked_on": "2026-11-26",
+        "time_zone": "Asia/Shanghai",
+        "trending_url": "https://github.com/trending"
+      },
+      "mode": "read_only"
+    },
+    "backnotprop/plannotator": {
+      "repository_url": "https://github.com/backnotprop/plannotator",
+      "note_url": "https://github.com/aevumworks/agent-guestbook/blob/main/PLANNOTATOR-REVIEW.md",
+      "topic": "WebMCP review: did an agent comment record human approval? / Agent 评论等于人类批准吗？",
+      "source_url": "https://plannotator.ai/docs/reference/webmcp-tools/#the-rule-decisions-are-human",
+      "selection": {
+        "kind": "independent",
+        "checked_on": "2026-11-26",
+        "time_zone": "Asia/Shanghai"
+      },
+      "mode": "read_only"
+    }
   }
 }
