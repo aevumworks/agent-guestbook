@@ -16,6 +16,10 @@ Source for weekly editions: [GitHub Trending · This week](https://github.com/tr
 
 **Independent project note / 独立短评：** [Diagram Design evidence labels: what does an arrow really mean? / 图上的箭头代表什么？](DIAGRAM-DESIGN-HANDOFF.md)
 
+## Daily pick · 2026-11-27 / 11 月 27 日日榜选题
+
+**[last30days-skill: did Reddit really have nothing? / Reddit 真的没有结果吗？](LAST30DAYS-SOURCE-COVERAGE.md)** A one-minute handoff puzzle, selected from [GitHub Trending Today](https://github.com/trending). / 来自 GitHub 日榜的证据交接题，不算周榜条目。
+
 ## Daily pilot · 2026-11-26 / 日榜试刊：Agent 怎么交接
 
 Three picks from the [GitHub Trending daily view](https://github.com/trending), checked on the date above. These are editorial selections, not a ranking or an affiliation. The descriptions are based on the projects’ own READMEs; we did not run the tools for this edition.
